@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Damas_Week06_Work05/1.0.0": {
+        "runtime": {
+          "Damas_Week06_Work05.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Damas_Week06_Work05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
